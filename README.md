@@ -21,3 +21,9 @@ This webpage is to play around with GitHub commands and to learn how to publish 
 - [GitHub Learning Lab](https://lab.github.com/courses) - E-Learning site to familiarize with GitHub.
 - [GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE "youtube link") - Youtube video of tutorial for beginners.
 - [Github ](https://www.atlassian.com/git "GitHub Beginners guide") - Atlassian website to explore GitHub.
+
+## Contributors
+
+This is Vijay! currently pursuing Master's Degree in Applied Computer Science who joined NorthWest family recently for Spring 2019 semester.
+
+
