@@ -1,7 +1,5 @@
 # aboutme
  
-- [MyGitHubPage](https://github.com/KaranamVijayKumar/ "My GitHub Home Page")
-
 ## Repository Links
 
 - [webpage](https://karanamvijaykumar.github.io/aboutme/ "Working with aboutme webpage")
