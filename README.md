@@ -24,7 +24,7 @@ This webpage is to play around with GitHub commands and to learn how to publish 
 
 ## Contributors
 
-This is Vijay! currently pursuing Master's Degree in Applied Computer Science who joined NorthWest family recently for Spring 2019 semester.
+This is Vijay! currently pursuing my Master's Degree in Applied Computer Science and I have joined the NorthWest family recently for Spring 2019 semester.
 
 ![MyPic](https://raw.githubusercontent.com/KaranamVijayKumar/aboutme/master/MyPic.jpg "My picture")
 
