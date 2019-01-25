@@ -27,6 +27,6 @@ This is Vijay! currently pursuing my Master's Degree in Applied Computer Science
 
 ![MyPic](https://raw.githubusercontent.com/KaranamVijayKumar/aboutme/master/MyPic.jpg "My picture")
 
-editing locally
+
 
 
