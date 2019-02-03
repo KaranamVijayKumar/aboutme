@@ -1,0 +1,24 @@
+header{
+   padding-top: 10em;
+   border-style:solid;
+}
+
+h1{
+    color: blueviolet;
+    margin-left: 0.5em;
+
+}
+
+article{
+    border-style:solid;
+}
+section{
+    border-style: dotted;
+    padding: 2em;
+    margin:1em;
+    background-color: #006747;
+    color:white;
+}
+.important{
+    background-color: aqua;
+}
