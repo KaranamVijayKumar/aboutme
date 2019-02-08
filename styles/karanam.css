@@ -14,16 +14,24 @@ header{
 h1{
     color: blueviolet;
     
-
 }
 
 article{
     border-style:solid;
 }
 section{
-    
-    padding: 2em;
+    border: 4em;
     margin:1em;
     color:white;
+    width: 300px;
+    padding: 2rem;
+    border-radius: 2em;
+    box-sizing:border-box;
+    background-color:blueviolet;
 }
+.c1{
+    color: black;
+
+}
+
 
