@@ -4,28 +4,42 @@
 
 <head>
     <title>Vijay Kumar </title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link href="./karanam.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+       <link href="./styles/karanam.css" rel="stylesheet">
+    
 </head>
 
-<body>
-    <style>
-        section {
-            margin: 1rem;
-            padding: 2rem;
-            background-color: lightblue;
-            border-radius: 2em;
-        }
-    </style>
-
-
+<body class="background_image" style="background-image: url(california.jpg)">
+   
     <header>
         <h1> This is my Page : Vijay Kumar</h1>
 
     </header>
-    <nav>
-
-    </nav>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <a class="navbar-brand" href="#">Vijay Kumar Karanam</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Contact_Info</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">User_Input</a>
+                    </li>
+                </ul>
+                <form class="form-inline mt-2 mt-md-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </div>
+        </nav>
     <main>
         <article>
 
@@ -36,7 +50,7 @@
                 Masters in
                 Applied Computer Science.
                 <h2>Background</h2>
-                <P class="important">
+                <P>
                     I am from India. I did my undergrad as well in the stream of Computer Science from Jawaharlal Nehru
                     Technological University Anantapur, India and worked for an IT company for three years as a
                     Software
