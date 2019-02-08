@@ -1,11 +1,19 @@
 header{
-   padding-top: 10em;
-   border-style:solid;
-}
+   padding-top: 5em;
 
+}
+.background_image{
+    height: 100%;
+        position: relative;
+        opacity: 0.93;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+}
 h1{
     color: blueviolet;
-    margin-left: 0.5em;
+    
 
 }
 
@@ -13,12 +21,9 @@ article{
     border-style:solid;
 }
 section{
-    border-style: dotted;
+    
     padding: 2em;
     margin:1em;
-    background-color: #006747;
     color:white;
 }
-.important{
-    background-color: aqua;
-}
+
