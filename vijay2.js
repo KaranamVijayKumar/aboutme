@@ -56,4 +56,3 @@ console.log('Declare event listeners .......................')
     xhttp.open("GET", "ajax_info.txt", true);
     xhttp.send();
   }
- console.log('SCRIPT END')
