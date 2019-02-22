@@ -1,7 +1,13 @@
  console.log('SCRIPT START')
  console.log('Declare testable functions......................')
  function area(x) {
-         return x * x;
+     if(x<0)
+     {
+       alert('Area cannot be negative')
+     }
+     else{
+        return x * x;
+     } 
      }
 console.log('Defined area=' + area)
 console.log('Declare event listeners .......................')
