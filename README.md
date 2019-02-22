@@ -7,19 +7,34 @@
 - [Source](https://github.com/KaranamVijayKumar/aboutme/ "Working with aboutme source")
 
 ## About
-This webpage is to play around with GitHub commands and to learn how to publish pages using GitHub.
+This webpage is to enhance my previous web app using Java Script to make it more interactive.
 
 ## Recommended Tools
 
 - [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript "codeacademy javascript link") - Programming Language for developing web pages.
-- [HTML](https://www.codecademy.com/learn/learn-html "codeacademy HTML link") - Markup Language for Web Development.
-- [CSS](https://www.codecademy.com/learn/learn-css "codeacademy CSS link") - To enhance look and feel of Web Page.
+
 
 ## Recommended Sources
 
-- [GitHub Learning Lab](https://lab.github.com/courses) - E-Learning site to familiarize with GitHub.
-- [GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE "youtube link") - Youtube video of tutorial for beginners.
-- [Github ](https://www.atlassian.com/git "GitHub Beginners guide") - Atlassian website to explore GitHub.
+- [Bootstrap Material Design CDN](https://mdbootstrap.com/md-bootstrap-cdn/)
+- [HTML Validator](https://validator.w3.org/)
+- [JavaScript Standard Style Validator](https://standardjs.com/demo.html)
+
+## Terms used
+
+ 1.JavaScript
+ 
+ 2.event handlers
+ 
+ 3.function
+ 
+ 4.arguments
+ 
+ 5.return value
+ 
+ 6.session storage
+ 
+ 7.ajax
 
 ## Contributors
 
